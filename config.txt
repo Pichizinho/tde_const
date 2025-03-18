@@ -1,0 +1,3 @@
+extrair_texto=sim
+gerar_sumario=sim
+validar_xref=sim
